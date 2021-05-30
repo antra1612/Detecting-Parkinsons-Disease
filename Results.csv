@@ -1,0 +1,10 @@
+﻿Model,Accuracy,Precision,Recall,Logloss,F1,AUC
+Decision Tree,93.22,95,95,2.34,0.95,93.94
+Logistic Regression,91.8,94.7,94.7,2.82,0.94,93.3
+Naïve bayes,75.51,90.62,76.31,8.46,0.82,83.25
+K Nearest Neighbour,91.8,90.47,100,2.82,0.95,97.61
+SVM,83.05,81.2,97.5,5.85,0.88,87.63
+Random Forest,94.91,95.1,97.5,1.76,0.96,98.42
+Ada Boost,91.52,92,97.87,2.93,0.94,98.05
+Gradient Boosting,94.91,95.55,97.72,1.76,0.96,99.24
+XG-Boost,97.43,96.66,100,0.89,0.98,98.28
